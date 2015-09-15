@@ -1,6 +1,6 @@
 Package.describe({
   name: 'hydraorc:translit',
-  version: '1.0.5',
+  version: '1.0.6',
   // Brief, one-line summary of the package.
   summary: 'URL-safe transliteration for Meteor.',
   // URL to the Git repository containing the source code for this package.
