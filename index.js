@@ -46,7 +46,7 @@ var options = {
   ') ': '-'
 };
 
-var keys = Object.keys(options).sort((a, b) => (b.length - a.length));
+var keys = Object.keys(options).sort(function sortObjectKeys(a, b) { return b.length - a.length; });
 
 var safeCharacterRegExp = /[A-Za-z0-9]/;
 
