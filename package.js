@@ -1,6 +1,6 @@
 Package.describe({
   name: 'hydraorc:translit',
-  version: '2.0.0',
+  version: '2.0.1',
   summary: 'URL-safe transliteration for Meteor.',
   git: 'https://github.com/hydraorc/meteor-translit.git',
   documentation: 'README.md'
